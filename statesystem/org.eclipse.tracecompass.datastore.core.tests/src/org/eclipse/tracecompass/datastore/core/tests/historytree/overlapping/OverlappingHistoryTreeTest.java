@@ -43,6 +43,9 @@ public class OverlappingHistoryTreeTest
             int providerVersion,
             long treeStart) throws IOException {
 
+
+
+
         return new OverlappingHistoryTreeStub(stateHistoryFile,
                 blockSize,
                 maxChildren,
